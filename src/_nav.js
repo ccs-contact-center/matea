@@ -23,11 +23,6 @@ export default {
       icon: 'icon-puzzle',
     
     },
-    
-    
-
-    
-
     {
       name: 'Despedida',
       icon: 'icon-tag',
